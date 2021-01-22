@@ -24,4 +24,4 @@ A Flappy Bird game based on Java basic class library
 ## Structure
 ![](https://github.com/sunzhichao/FlappyBird/blob/main/src/main/resources/readme_img/class-structure-en.png?raw=true)
 ## Thanks
-This project refers to the project[FlappyBird](https://github.com/kingyuluk/FlappyBird) of [kingyuluk](https://github.com/kingyuluk),Express thankfulness.
+The reference of this project is [FlappyBird](https://github.com/kingyuluk/FlappyBird) of [kingyuluk](https://github.com/kingyuluk),express thankfulness.
