@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/lisense-MIT-brightgreen.svg)
+![](https://img.shields.io/badge/Java-14-important.svg)
+![](https://img.shields.io/badge/game-FlappyBird-critical.svg)
+![](https://img.shields.io/github/stars/sunzhichao/FlappyBird)
+
 [English](README.md) | 简体中文
 # Flappy Bird
 ## 简介
